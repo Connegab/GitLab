@@ -11,9 +11,9 @@ Charlie Team Members
 
 Team Roles
 - Release Manager (Gabe Conner)
-- Developer 1 (TBD)
-- Developer 2 (TBD)
-- Developer 3 (TBD)
+- Developer 1- Alexis Mitchell
+- Developer 2- Paul Fralix
+- Developer 3- James Brown III
 
 The project demonstrates:
 - Branching
